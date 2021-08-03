@@ -9,8 +9,8 @@ doing that only for Section 1 though. :D)_
 
 ## 1. Users table rows use `th` instead of `td`
 ### Expected
-As per [W3C standards](...) table headers must use `th` for header cells and
-`td` for regular cells.
+As per [W3C standards](https://www.w3.org/TR/html4/struct/tables.html#h-11.2.6) table headers must use `th` for header cells and
+`td` for regular cells due to acessibility reasons.
 
 ### Actual
 The table displayed under **DOM: Tables** at **Section 1** uses `th` for all
