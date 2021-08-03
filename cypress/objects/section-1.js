@@ -1,7 +1,5 @@
 const Section1 = {
-  /**
-   * A literal is considered static, stable strings (eg. titles, form labels, ...)
-   */
+
   literals: {
     PAGE_URL: '/section-1',
     HEADER_TEXT: 'DOM interactions',
@@ -21,9 +19,6 @@ const Section1 = {
     }
   },
 
-  /**
-   * An element is a selector for any DOM element (eg. [data-test="xxx"], #id, ...)
-   */
   elements: {
     hdrSection1: 'h1:first',
     users: {
@@ -43,10 +38,6 @@ const Section1 = {
     }
   },
 
-  /**
-   * An action should be pretty self explanatory! It consists of all the method performing
-   * a particular action from clicking a simple button to doing complex assertions.
-   */
   actions: {
 
     /**
