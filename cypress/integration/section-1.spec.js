@@ -53,18 +53,6 @@ describe('Validate the Sign-Up Form', () => {
 
   })
 
-  context('sign-up form structure', () => {
-    it('has the "Name" field and it is a text input')
-
-    it('has the "Age" field and it is a number input')
-
-    it('has the "Gender" field and it is a select')
-
-    it('has the "Nurse?" field and it is a check box input')
-
-    it('has the "Submit" button')
-  })
-
   context('fill up the sign-up form', () => {
 
     it('the "Name" field can be filled', () => {
