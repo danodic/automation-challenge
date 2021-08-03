@@ -51,7 +51,7 @@ Has been observed at `/section1` under **DOM: Forms**
 The application must now allow the *Sign-Up* form to be submitted when the
 **Gender** field has not been changed to a valid option.
 
-### Action
+### Actual
 The application allows the form to be submitted with the **Gender** field in its
 default state and does not throw an error message when this is done.
 
