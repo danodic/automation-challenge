@@ -4,7 +4,7 @@ node_modules
 cypress/screenshots
 cypress/videos
 cypress/logs
-cypress/fixtures/**
+cypress/fixtures/downloads
 .history
 .vscode
 env
